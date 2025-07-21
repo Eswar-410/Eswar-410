@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eswar Avala</h1>
-<h3 align="center">I am a student of Aditya university</h3>
+<h3 align="center">Software Engineer at MountBlue Technologies </h3>
 <image align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswar&label=Profile%20views&color=0e75b6&style=flat" alt="eswar" /> </p>
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML,CSS,Django,JavaScript,Qiskit,Quantum Computing and Python Programming**
 
-- 📫 How to reach me **eswar.avala@gmail.com**
+- 📫 How to reach me **eswar.avala123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
