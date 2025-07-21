@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswar&label=Profile%20views&color=0e75b6&style=flat" alt="eswar" /> </p>
 
-- 🔭 I’m currently working on **Quantum Computing**
+- 🔭 I’m currently working on **AWS Devops**
 
-- 🌱 I’m currently learning **Qiskit**
+- 💬 Ask me about **HTML,CSS,Django,JavaScript,Qiskit,Quantum Computing and Python Programming**
 
-- 💬 Ask me about **HTML,CSS,JAVA,JavaScript,C and Python Programming**
-
-- 📫 How to reach me **eswar191037@gmail.com**
+- 📫 How to reach me **eswar.avala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
